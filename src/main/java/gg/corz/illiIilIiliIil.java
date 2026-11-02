@@ -1,0 +1,42 @@
+package gg.corz;
+
+enum illiIilIiliIil {
+   iliIlliIiIiiIlliIi,
+   IIlilliIilIlilliIi,
+   iilIlliIiIIiIlliIi,
+   IIIIiliIilIIIiliIi,
+   iIlilliIiIllilliIi,
+   iiIllliIiIIlllliIi,
+   iiillliIiIIIilliIi,
+   IlIilliIillIilliIi,
+   liIilliIiiiIilliIi,
+   liiIlliIiiiiIlliIi,
+   illllliIiIilllliIi,
+   IilIlliIililIlliIi,
+   iIIllliIiIlIllliIi,
+   liiilliIiiiiilliIi,
+   iliilliIiIiiilliIi,
+   lilllliIiiilllliIi,
+   IIillliIilIillliIi,
+   lIiIlliIiiIiIlliIi,
+   llIllliIiilIllliIi,
+   iIillliIiIlillliIi,
+   lIIilliIiiIIilliIi,
+   iIIIiliIiIlIIiliIi,
+   lllIlliIiillIlliIi,
+   IIIllliIilIIllliIi,
+   lIiilliIiiIiilliIi,
+   llillliIiilillliIi,
+   IliilliIilliilliIi,
+   IiIllliIiliIllliIi,
+   ilIilliIiIiIilliIi,
+   IiillliIiliillliIi,
+   lIlllliIiiIlllliIi,
+   lllilliIiillilliIi,
+   IliIlliIilliIlliIi,
+   iililliIiIIiilliIi,
+   IililliIilililliIi,
+   IllllliIilllllliIi;
+   // $VF: synthetic field
+   private static final illiIilIiliIil[] llIIiliIiilIIiliIi = IliIlllilIi();
+}

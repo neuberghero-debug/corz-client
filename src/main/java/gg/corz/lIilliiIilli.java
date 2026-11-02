@@ -1,0 +1,5 @@
+package gg.corz;
+
+public interface lIilliiIilli {
+   illllilIilllil at(int var1, int var2, int var3, int var4, int var5, int var6);
+}

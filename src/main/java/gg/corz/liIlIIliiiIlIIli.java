@@ -1,0 +1,83 @@
+package gg.corz;
+
+import java.util.ArrayDeque;
+import net.minecraft.class_1309;
+import net.minecraft.class_1792;
+import net.minecraft.class_243;
+
+final class liIlIIliiiIlIIli {
+   int lliIllIlIi;
+   long IIIlllIlIi;
+   String iilIllIlIi = "";
+   float llllllIlIi;
+   boolean iIiIllIlIi;
+   float liIlllIlIi;
+   final boolean[] IIIillIlIi;
+   int IlIlllIlIi;
+   int lIilllIlIi;
+   int iIIillIlIi;
+   long iliIllIlIi;
+   boolean lIIlllIlIi;
+   int iillllIlIi;
+   boolean IillllIlIi;
+   int lIIillIlIi;
+   long lIllllIlIi;
+   class_1309 lilIllIlIi;
+   long ililllIlIi;
+   boolean IIllllIlIi;
+   long IlllllIlIi;
+   final ArrayDeque<lIlillIliIlillIl> IIilllIlIi;
+   long IlIillIlIi;
+   float iIIlllIlIi;
+   long liiIllIlIi;
+   long iIilllIlIi;
+   long llilllIlIi;
+   float iiIlllIlIi;
+   class_1792 lillllIlIi;
+   liiilIiliiiilIil llIillIlIi;
+   final double[] iiilllIlIi;
+   final class_243[] liilllIlIi;
+   float iiiIllIlIi;
+   boolean IiiIllIlIi;
+   float llIlllIlIi;
+   final iillilIIilil lIiIllIlIi;
+   long iIllllIlIi;
+   long ilIlllIlIi;
+   final int IilIllIlIi;
+   long IliIllIlIi;
+   boolean IiilllIlIi;
+   float IiIlllIlIi;
+   final lililIlliililIll IIiIllIlIi = new lililIlliililIll();
+   long IlilllIlIi;
+   long illlllIlIi;
+
+   liIlIIliiiIlIIli(int id) {
+      this.lIiIllIlIi = new iillilIIilil();
+      this.iIiIllIlIi = true;
+      this.IliIllIlIi = Long.MIN_VALUE;
+      this.iliIllIlIi = Long.MIN_VALUE;
+      this.liiIllIlIi = Long.MIN_VALUE;
+      this.iiiIllIlIi = 20.0F;
+      this.IIIlllIlIi = Long.MIN_VALUE;
+      this.lIIlllIlIi = true;
+      this.iIIlllIlIi = Float.NaN;
+      this.llIlllIlIi = 1.0F;
+      this.ilIlllIlIi = Long.MIN_VALUE;
+      this.iiIlllIlIi = Float.MAX_VALUE;
+      this.lIllllIlIi = Long.MIN_VALUE;
+      this.iIllllIlIi = Long.MIN_VALUE;
+      this.IlllllIlIi = Long.MIN_VALUE;
+      this.illlllIlIi = Long.MIN_VALUE;
+      this.IIilllIlIi = new ArrayDeque<>();
+      this.iIilllIlIi = Long.MIN_VALUE;
+      this.IlilllIlIi = Long.MIN_VALUE;
+      this.llilllIlIi = Long.MIN_VALUE;
+      this.ililllIlIi = Long.MIN_VALUE;
+      this.IiilllIlIi = true;
+      this.liilllIlIi = new class_243[5];
+      this.iiilllIlIi = new double[5];
+      this.IIIillIlIi = new boolean[5];
+      this.IlIillIlIi = Long.MIN_VALUE;
+      this.IilIllIlIi = id;
+   }
+}

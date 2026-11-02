@@ -1,0 +1,41 @@
+package gg.corz;
+
+public enum IIIIiIllIIIiIl {
+   liIIilllliiIIillll,
+   llIilllllilIilllll,
+   lIllilllliIllillll,
+   IiIilllllliIilllll,
+   ilIIillllIiIIillll,
+   lliillllliliilllll,
+   lillilllliillillll,
+   iIiilllllIliilllll,
+   iIlIillllIllIillll,
+   IIililllllIilillll,
+   iiIlillllIIllillll,
+   IIlIilllllIlIillll,
+   lilillllliililllll,
+   Illillllllllilllll,
+   liiIilllliiiIillll,
+   lIiIilllliIiIillll,
+   lIIIilllliIIIillll,
+   illilllllIililllll,
+   IiIlillllliIlillll,
+   iliIillllIiiIillll,
+   iiiilllllIIIIillll,
+   Illlillllllllillll,
+   iiIilllllIIlilllll,
+   llIlillllilIlillll,
+   Iiiilllllliiilllll,
+   iilIillllIIiIillll,
+   lllIillllillIillll,
+   iIIlillllIlIlillll,
+   IliIilllllliIillll,
+   lIlillllliIlilllll,
+   illlillllIillillll,
+   IIiillllllIiilllll,
+   IIIlilllllIIlillll,
+   IilIilllllilIillll,
+   IlIIillllllIIillll;
+   // $VF: synthetic field
+   private static final IIIIiIllIIIiIl[] iIilillllIlilillll = IliIlllilIi();
+}

@@ -1,0 +1,6 @@
+package gg.corz;
+
+@FunctionalInterface
+public interface lliiiiIliliiiiIl {
+   void rect(int var1, int var2, int var3, int var4, int var5);
+}
