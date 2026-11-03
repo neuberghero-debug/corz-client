@@ -17,7 +17,7 @@ flattens into the same tree. Synthetic/obfuscated members keep their generated
 names; a few methods may not decompile cleanly. That reflects the decompiler's
 output, not a redaction.
 
-Not buildable as-is; `build.gradle` is a reconstruction skeleton only.
+Not buildable as-is; the source tree mirrors the jar layout 1:1.
 
 ## Purpose
 
