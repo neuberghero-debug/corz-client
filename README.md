@@ -9,6 +9,17 @@ produced with [Vineflower](https://github.com/Vineflower/vineflower).
   module code), the embedded `qvm` native-layer bootstrapper, and bundled libraries
 - `src/main/resources` — `fabric.mod.json`, mixin configs, assets, natives
 
+## Features (from the decompiled class tree)
+
+- Large mixin/accessor set (input, rendering, fog, sound, network, inventory)
+- Cosmetics/capes layer, theme music, motion blur, FPS limiter tweaks
+- Embedded `qvm` native bootstrapper with per-platform libraries
+
+## Requirements
+
+- JDK 21+ (Minecraft 1.21.x runtime baseline — bytecode targets `--release 21`)
+- Fabric Loader ≥ 0.16, Fabric API, Yarn `1.21.11+build.1`
+
 ## Notes on completeness
 
 The jar bundles a lot — including a small custom VM layer (`com.corz.client.qvm`)
