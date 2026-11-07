@@ -1,7 +1,7 @@
 # CorzClient — decompiled sources
 
-Decompiled Java sources of the **CorzClient** Fabric mod for Minecraft 1.21.11,
-produced with [Vineflower](https://github.com/Vineflower/vineflower).
+CorzClient is a Fabric client for Minecraft 1.21.11. This tree is its jar,
+run back through Vineflower — class by class, resource by resource.
 
 ## What's here
 
@@ -14,6 +14,11 @@ produced with [Vineflower](https://github.com/Vineflower/vineflower).
 - Large mixin/accessor set (input, rendering, fog, sound, network, inventory)
 - Cosmetics/capes layer, theme music, motion blur, FPS limiter tweaks
 - Embedded `qvm` native bootstrapper with per-platform libraries
+
+## Installation
+
+Drop the release jar from the [Releases](../../releases) page into
+`.minecraft/mods` (Fabric Loader ≥ 0.16, Fabric API, Minecraft 1.21.11).
 
 ## Requirements
 
